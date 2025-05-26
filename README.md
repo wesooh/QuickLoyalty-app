@@ -17,4 +17,4 @@ Track customer visits using phone numbers. Built with Supabase + Vanilla JS.
 3. Enter a phone number and click “Add Visit”
 
 ## Screenshots
-_Add one if you have time_
+In the pitch deck
